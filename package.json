@@ -1,6 +1,6 @@
 {
   "name": "stockthai",
-  "version": "1.0.1",
+  "version": "1.0.6",
   "description": "data api for stock exchange of thailand",
   "main": "stockthai.js",
   "scripts": {
