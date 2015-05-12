@@ -1,6 +1,6 @@
 {
   "name": "stockthai",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "data api for stock exchange of thailand",
   "main": "stockthai.js",
   "scripts": {
@@ -28,7 +28,6 @@
   "homepage": "https://github.com/suksawat/stockthai",
   "dependencies": {
     "cheerio": "^0.19.0",
-    "iconv-lite": "^0.4.8",
-    "node-rest-client": "^1.5.1"
+    "request": "^2.55.0"
   }
 }
