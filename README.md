@@ -2,10 +2,10 @@
 Client api for stock exchang of thailand
 
 
-###installing 
+###Installing 
       npm install stockthai
 
-###how to use
+###How to use
 
       var stockthai = require("stockthai");
       
@@ -20,6 +20,8 @@ Client api for stock exchang of thailand
       });
       
       
-### return object example
+### Return object example
     {"name":"MINT","price":"31.75","company":"MINOR INTERNATIONAL PUBLIC COMPANY LIMITED ","prior":"31.00","open":"31.00","valume":"4,914,162","value":"154,433.18","pervalue":"1.00","height":"31.75","low":"31.00","ave  rage_price":"31.40","ceiling":"40.25","floor":"21.70"}
+    
+*Get data from settrade.com
 
